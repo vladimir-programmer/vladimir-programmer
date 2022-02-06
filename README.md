@@ -158,7 +158,7 @@
   ★★Backend: PHP, Node, Express, Python, Django, Ecommerce<br>
   ★★Database: MySQL, MSSQL, MongoDB, SQLite, PostgreSQL<br>
   ★★Framework: Wordpress, Laravel, Codeigniter, Cakephp, Shopify, Joomula, Magento<br>
-
+  <br>
   - Blockchain Field:<br>
   ★★Built NFT on the Ethereum blockchain<br>
   ★★Built Defi with farming, staking, lottery, and swap<br>
