@@ -149,10 +149,16 @@
   </a>
 </p>
 <hr>
-  <h3>Senior Web & Blockchain Developer</h3>
+  <h3>Full Stack Web Developer</h3>
 <p>
   A productive Full-Stack Web/Blockchain developer with a passion for change and breaking previous records. My passion is creating world-class products.
   <br>
+  - Web Field:<br>
+  ★★Frontend: HTML, CSS, Javascript, Bootstrap, TailWindCSS, Jquery, Angular, React, Next, Vue.<br>
+  ★★Backend: PHP, Node, Express, Python, Django, Ecommerce<br>
+  ★★Database: MySQL, MSSQL, MongoDB, SQLite, PostgreSQL<br>
+  ★★Framework: Wordpress, Laravel, Codeigniter, Cakephp, Shopify, Joomula, Magento<br>
+
   - Blockchain Field:
   <br>
   Built NFT on the Ethereum blockchain
@@ -165,49 +171,10 @@
   Created ICO smart contracts.<br>
   Researched, proposed, and integrated several Ethereum Improvement Proposals (EIPs).<br>
 
-  - Web Field:<br>
-  ★★Django, PHP, Javascript, Typescript<br>
-  ★★MERN, MEAN, React, Vue, Next, Nuxt<br>
-  ★★Laravel<br>
-
-  - Programming Languages: C++, Javascript, Typescript, PHP, Python, C#, Java, Solidity, Rust, Ruby<br>
-
   Your success is my success and I will not let you down<br>
   Let's have a good journey!!!
 </p>
 
-<hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <p align=center>
-    <a href="https://github.com/smart-dev419/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=smart-dev419&theme=react&border=61dafb&hide_border=true" alt="smart-dev419" />
-    </a>
-    <a href="https://github.com/smart-dev419/github-readme-stats" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=smart-dev419&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </p>
-  <div align=center>
-  <br><br><br>
-    <a href="https://github.com/smart-dev419/github-readme-stats">
-      <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart-dev419&hide=c%23,blade,powershell,Css,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=smart-dev419&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <br>
-  
-</p>
-<hr>
-<h2 align="center">⚡ Profile Trophy ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/smart-dev419/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" alt="smart-dev419" /></a>
-  </div>
-  <br>
-</p>
 <hr>
 <h4 align="center">
   <a href="https://github.com/smart-dev419?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
