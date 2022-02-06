@@ -159,17 +159,15 @@
   ★★Database: MySQL, MSSQL, MongoDB, SQLite, PostgreSQL<br>
   ★★Framework: Wordpress, Laravel, Codeigniter, Cakephp, Shopify, Joomula, Magento<br>
 
-  - Blockchain Field:
-  <br>
-  Built NFT on the Ethereum blockchain
-  <br>
-  Built Defi with farming, staking, lottery, and swap<br>
-  Developed cryptocurrency wallets<br>
-  Developed secure Solidity token & smart contracts on the Ethereum and the Tron blockchain.<br>
-  Developed secure Rust Token & smart contracts for the Solana blockchain.<br>
-  Implemented interaction with Ethereum smart contracts using JavaScript and web3.<br>
-  Created ICO smart contracts.<br>
-  Researched, proposed, and integrated several Ethereum Improvement Proposals (EIPs).<br>
+  - Blockchain Field:<br>
+  ★★Built NFT on the Ethereum blockchain<br>
+  ★★Built Defi with farming, staking, lottery, and swap<br>
+  ★★Developed cryptocurrency wallets<br>
+  ★★Developed secure Solidity token & smart contracts on the Ethereum and the Tron blockchain.<br>
+  ★★Developed secure Rust Token & smart contracts for the Solana blockchain.<br>
+  ★★Implemented interaction with Ethereum smart contracts using JavaScript and web3.<br>
+  ★★Created ICO smart contracts.<br>
+  ★★Researched, proposed, and integrated several Ethereum Improvement Proposals (EIPs).<br>
 
   Your success is my success and I will not let you down<br>
   Let's have a good journey!!!
