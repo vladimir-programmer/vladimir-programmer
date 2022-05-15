@@ -154,26 +154,22 @@
   A productive Full-Stack Web/Blockchain developer with a passion for change and breaking previous records. My passion is creating world-class products.
   <br>
   - Web Field:<br>
-  ★★Frontend: HTML, CSS, Javascript, Bootstrap, TailWindCSS, Jquery, Angular, React, Next, Vue.<br>
+  ★★Frontend: HTML, CSS, Javascript, Bootstrap, TailWindCSS, Jquery, ECMA, Angular, React, Vue.<br>
   ★★Backend: PHP, Node, Express, Python, Django, Ecommerce<br>
   ★★Database: MySQL, MSSQL, MongoDB, SQLite, PostgreSQL<br>
   ★★Framework: Wordpress, Laravel, Codeigniter, Cakephp, Shopify, Joomula, Magento<br>
   <br>
   - Blockchain Field:<br>
-  ★★Built NFT on the Ethereum blockchain<br>
+  ★★Built NFT on the ETH, BSC, Solana<br>
   ★★Built Defi with farming, staking, lottery, and swap<br>
   ★★Developed cryptocurrency wallets<br>
   ★★Developed secure Solidity token & smart contracts on the Ethereum and the Tron blockchain.<br>
   ★★Developed secure Rust Token & smart contracts for the Solana blockchain.<br>
   ★★Implemented interaction with Ethereum smart contracts using JavaScript and web3.<br>
-  ★★Created ICO smart contracts.<br>
-  ★★Researched, proposed, and integrated several Ethereum Improvement Proposals (EIPs).<br>
-
-  Your success is my success and I will not let you down<br>
-  Let's have a good journey!!!
+  ★★Created ICO smart contracts.<br>    
 </p>
 
 <hr>
 <h4 align="center">
-  <a href="https://github.com/smart-dev419?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/vladimir-programmer?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
